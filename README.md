@@ -1,4 +1,4 @@
-# Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams-in-SQL-
+
 
 # Ad-Hoc Analysis in consumer goods industry for Supply Chain & Finance Teams of AtliQ Hardware:
 
